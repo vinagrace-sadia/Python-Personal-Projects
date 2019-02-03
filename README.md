@@ -1,5 +1,5 @@
 # Python Personal Projects
-A coding exercise using Python. 
+A coding exercise using Python. <br>
 This repository is a collection of mini projects.
 
 #### List of Projects
