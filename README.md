@@ -7,3 +7,4 @@ This repository is a collection of mini projects.
 - [Guessing Game](https://github.com/vinagrace-sadia/Python-Personal-Projects/blob/master/Guessing%20Game)
 - [Hangman](https://github.com/vinagrace-sadia/Python-Personal-Projects/blob/master/Hangman)
 - [Simple Calculator](https://github.com/vinagrace-sadia/Python-Personal-Projects/tree/master/Calculator)
+- [Mad Libs](https://github.com/vinagrace-sadia/Python-Personal-Projects/tree/master/Mad%20Libs)
