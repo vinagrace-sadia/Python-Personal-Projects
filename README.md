@@ -1,4 +1,4 @@
-# Python Personal Projects
+# Python personal mini projects
 A coding exercise using Python. <br>
 This repository is a collection of mini projects.
 
